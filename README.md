@@ -1,4 +1,4 @@
-<center> ![project](https://user-images.githubusercontent.com/66825147/160429834-0ce7f4de-0908-4f5a-bf53-35460524e0a1.jpg) </center>
+<p align="center"><img src="https://user-images.githubusercontent.com/66825147/160429834-0ce7f4de-0908-4f5a-bf53-35460524e0a1.jpg"></p>
 
 # ProsperityProject
 
