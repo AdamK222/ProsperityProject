@@ -7,5 +7,4 @@ Get $PROJECT REWARDS every 3 seconds - 28,800 times per day and BUSD REWARDS for
 An investment of 1000$ PROJECT gives $15,851,755.80 PROJECT in just 12 months.
 
 Token address: 0x499Ec235B50230F145EF875aA5999c2d19811fDB
-
 **BSCscan: https://bscscan.com/token/0x499Ec235B50230F145EF875aA5999c2d19811fDB**
